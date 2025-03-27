@@ -26,3 +26,6 @@ D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\refint\StoreApp.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.pdb
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.genruntimeconfig.cache
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\ref\StoreApp.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.sourcelink.json
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.RazorAssemblyInfo.cache
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.RazorAssemblyInfo.cs
