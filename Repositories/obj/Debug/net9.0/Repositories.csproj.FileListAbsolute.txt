@@ -1,0 +1,16 @@
+D:\MyCodingSamples\MVC\Store\Repositories\bin\Debug\net9.0\Repositories.deps.json
+D:\MyCodingSamples\MVC\Store\Repositories\bin\Debug\net9.0\Repositories.dll
+D:\MyCodingSamples\MVC\Store\Repositories\bin\Debug\net9.0\Repositories.pdb
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.dll
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Repositories.pdb
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+D:\MyCodingSamples\MVC\Store\Repositories\bin\Debug\net9.0\Entities.dll
+D:\MyCodingSamples\MVC\Store\Repositories\bin\Debug\net9.0\Entities.pdb
+D:\MyCodingSamples\MVC\Store\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date

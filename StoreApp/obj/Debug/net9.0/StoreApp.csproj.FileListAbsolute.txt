@@ -245,3 +245,5 @@ D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\11meyrgl40-87f
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\omu34nzj59-5ipweew5fc.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Entities.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Entities.pdb
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Repositories.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Repositories.pdb
