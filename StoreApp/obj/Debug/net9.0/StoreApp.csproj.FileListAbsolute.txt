@@ -243,3 +243,5 @@ D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\7r9ui8n98y-2z0
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\f9vbit1ekj-muycvpuwrr.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\11meyrgl40-87fc7y1x7t.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\omu34nzj59-5ipweew5fc.gz
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Entities.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Entities.pdb
