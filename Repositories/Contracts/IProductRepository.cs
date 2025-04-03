@@ -6,5 +6,7 @@ namespace Entities.Models
     {
         IQueryable<Product> GetAllProducts(bool trackChanges);
         Product? GetOneProduct(int id, bool trackChanges);
+        void CreateOneProduct(Product product);
+        void DeleteOneProduct(Product product);
     }
 }
