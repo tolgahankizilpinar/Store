@@ -249,3 +249,5 @@ D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Repositories.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Repositories.pdb
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Services.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Services.pdb
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\AutoMapper.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
