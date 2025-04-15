@@ -17,5 +17,10 @@ namespace Services
         {
             return _manager.Category.FindAll(trackChanges);
         }
+
+        public IEnumerable<Category> GetAllOrders(bool trackChanges)
+        {
+            return _manager.Category.FindAll(trackChanges);
+        }
     }
 }
