@@ -13,14 +13,14 @@ namespace Repositories.Config
             builder.Property(p => p.Price).IsRequired();
 
             builder.HasData(
-                new Product { ProductId = 1, CategoryId = 2, ProductName = "Computer", Price = 17_000 },
-                new Product { ProductId = 2, CategoryId = 2, ProductName = "Keyboard", Price = 1_000 },
-                new Product { ProductId = 3, CategoryId = 2, ProductName = "Mouse", Price = 5000 },
-                new Product { ProductId = 4, CategoryId = 2, ProductName = "Monitor", Price = 7_000 },
-                new Product { ProductId = 5, CategoryId = 2, ProductName = "Deck", Price = 1_500 },
-                new Product { ProductId = 6, CategoryId = 2, ProductName = "Printer", Price = 11_000 },
-                new Product { ProductId = 7, CategoryId = 1, ProductName = "Biology", Price = 75 },
-                new Product { ProductId = 8, CategoryId = 1, ProductName = "SuçveCeza", Price = 125 }
+                new Product { ProductId = 1, CategoryId = 2, ImageUrl = "/images/1.jpg", ProductName = "Computer", Price = 17_000 },
+                new Product { ProductId = 2, CategoryId = 2, ImageUrl = "/images/2.jpg", ProductName = "Keyboard", Price = 1_000 },
+                new Product { ProductId = 3, CategoryId = 2, ImageUrl = "/images/3.jpg", ProductName = "Mouse", Price = 5000 },
+                new Product { ProductId = 4, CategoryId = 2, ImageUrl = "/images/4.jpg", ProductName = "Monitor", Price = 7_000 },
+                new Product { ProductId = 5, CategoryId = 2, ImageUrl = "/images/5.jpg", ProductName = "Deck", Price = 1_500 },
+                new Product { ProductId = 6, CategoryId = 2, ImageUrl = "/images/6.jpg", ProductName = "Printer", Price = 11_000 },
+                new Product { ProductId = 7, CategoryId = 1, ImageUrl = "/images/7.jpg", ProductName = "Biology", Price = 75 },
+                new Product { ProductId = 8, CategoryId = 1, ImageUrl = "/images/8.jpg", ProductName = "Suç ve Ceza", Price = 125 }
             );
         }
     }
