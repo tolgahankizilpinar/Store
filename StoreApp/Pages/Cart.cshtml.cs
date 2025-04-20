@@ -9,15 +9,16 @@ namespace StoreApp.Pages
     {
         private readonly IServiceManager _manager;
         public Cart Cart { get; set; }
+        public string ReturnUrl { get; set; } = "/";
+
+        public double Latitude  { get; set; } = 41.0082;  // default İstanbul Latitude
+        public double Longitude { get; set; } = 28.9784;  // default İstanbul Longitude
 
         public CartModel(IServiceManager manager, Cart cart)
         {
             _manager = manager;
             Cart = cart;
         }
-
-        
-        public string ReturnUrl { get; set; } = "/";
 
         public void OnGet(string returnUrl)
         {
