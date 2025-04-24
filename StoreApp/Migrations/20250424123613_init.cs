@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace StoreApp.Migrations
 {
     /// <inheritdoc />
-    public partial class start : Migration
+    public partial class init : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -56,6 +56,7 @@ namespace StoreApp.Migrations
                     Price = table.Column<decimal>(type: "TEXT", nullable: false),
                     Summary = table.Column<string>(type: "TEXT", nullable: true),
                     ImageUrl = table.Column<string>(type: "TEXT", nullable: true),
+                    ShowCase = table.Column<bool>(type: "INTEGER", nullable: false),
                     CategoryId = table.Column<int>(type: "INTEGER", nullable: true)
                 },
                 constraints: table =>
@@ -105,17 +106,20 @@ namespace StoreApp.Migrations
 
             migrationBuilder.InsertData(
                 table: "Products",
-                columns: new[] { "ProductId", "CategoryId", "ImageUrl", "Price", "ProductName", "Summary" },
+                columns: new[] { "ProductId", "CategoryId", "ImageUrl", "Price", "ProductName", "ShowCase", "Summary" },
                 values: new object[,]
                 {
-                    { 1, 2, "/images/1.jpg", 17000m, "Computer", "" },
-                    { 2, 2, "/images/2.jpg", 1000m, "Keyboard", "" },
-                    { 3, 2, "/images/3.jpg", 5000m, "Mouse", "" },
-                    { 4, 2, "/images/4.jpg", 7000m, "Monitor", "" },
-                    { 5, 2, "/images/5.jpg", 1500m, "Deck", "" },
-                    { 6, 2, "/images/6.jpg", 11000m, "Printer", "" },
-                    { 7, 1, "/images/7.jpg", 75m, "Biology", "" },
-                    { 8, 1, "/images/8.jpg", 125m, "Suç ve Ceza", "" }
+                    { 1, 2, "/images/1.jpg", 17000m, "Computer", false, "" },
+                    { 2, 2, "/images/2.jpg", 1000m, "Keyboard", false, "" },
+                    { 3, 2, "/images/3.jpg", 5000m, "Mouse", false, "" },
+                    { 4, 2, "/images/4.jpg", 7000m, "Monitor", false, "" },
+                    { 5, 2, "/images/5.jpg", 1500m, "Deck", false, "" },
+                    { 6, 2, "/images/6.jpg", 11000m, "Printer", false, "" },
+                    { 7, 1, "/images/7.jpg", 75m, "Biology", false, "" },
+                    { 8, 1, "/images/8.jpg", 125m, "Suç ve Ceza", false, "" },
+                    { 9, 1, "/images/9.jpg", 150m, "Chess", true, "" },
+                    { 10, 2, "/images/10.jpg", 450m, "Akıllı Saat", true, "" },
+                    { 11, 1, "/images/11.jpg", 200m, "Database Book", true, "" }
                 });
 
             migrationBuilder.CreateIndex(

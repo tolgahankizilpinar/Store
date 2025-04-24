@@ -9,6 +9,7 @@ namespace Entities.Models
         public decimal Price { get; set; }
         public string? Summary { get; set; } = string.Empty;
         public string? ImageUrl { get; set; }
+        public bool ShowCase { get; set; }  
 
         
         public int? CategoryId { get; set; }

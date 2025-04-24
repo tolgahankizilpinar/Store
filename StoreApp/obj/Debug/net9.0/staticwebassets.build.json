@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "av+h7Rq2eGNZOgWF/0icc+ecDo1LwY3pam8s7cEVX6k=",
+  "Hash": "hWCncPKVlftC/cNvsaRKWGptzvlzOlNVXWoRumbazhE=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -1926,6 +1926,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\10.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jmnx30pkwh",
+      "Integrity": "22g+QVyFeOJsYwOfs235ki2KITfAww92S7gNmnnTbeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\10.jpg"
+    },
+    {
+      "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\11.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqwfuzr86r",
+      "Integrity": "dk1ry8RuEVFfS8gQT+2efl8VX9VQKTa0uc8kcsCX0L0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\11.jpg"
     },
     {
       "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
@@ -6703,6 +6745,170 @@
       ]
     },
     {
+      "Route": "images/10.jmnx30pkwh.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22g+QVyFeOJsYwOfs235ki2KITfAww92S7gNmnnTbeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 12:01:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jmnx30pkwh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-22g+QVyFeOJsYwOfs235ki2KITfAww92S7gNmnnTbeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/10.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22g+QVyFeOJsYwOfs235ki2KITfAww92S7gNmnnTbeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 12:01:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-22g+QVyFeOJsYwOfs235ki2KITfAww92S7gNmnnTbeE="
+        }
+      ]
+    },
+    {
+      "Route": "images/11.eqwfuzr86r.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dk1ry8RuEVFfS8gQT+2efl8VX9VQKTa0uc8kcsCX0L0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 12:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqwfuzr86r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dk1ry8RuEVFfS8gQT+2efl8VX9VQKTa0uc8kcsCX0L0="
+        }
+      ]
+    },
+    {
+      "Route": "images/11.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dk1ry8RuEVFfS8gQT+2efl8VX9VQKTa0uc8kcsCX0L0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 12:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dk1ry8RuEVFfS8gQT+2efl8VX9VQKTa0uc8kcsCX0L0="
+        }
+      ]
+    },
+    {
       "Route": "images/2.cfx7p90fsp.jpg",
       "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
       "Selectors": [],
@@ -7299,7 +7505,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 17:25:09 GMT"
+          "Value": "Thu, 24 Apr 2025 12:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7336,7 +7542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 17:25:09 GMT"
+          "Value": "Thu, 24 Apr 2025 12:38:39 GMT"
         },
         {
           "Name": "Cache-Control",

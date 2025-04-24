@@ -124,6 +124,9 @@ namespace StoreApp.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<bool>("ShowCase")
+                        .HasColumnType("INTEGER");
+
                     b.Property<string>("Summary")
                         .HasColumnType("TEXT");
 
@@ -141,6 +144,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/1.jpg",
                             Price = 17000m,
                             ProductName = "Computer",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -150,6 +154,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/2.jpg",
                             Price = 1000m,
                             ProductName = "Keyboard",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -159,6 +164,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/3.jpg",
                             Price = 5000m,
                             ProductName = "Mouse",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -168,6 +174,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/4.jpg",
                             Price = 7000m,
                             ProductName = "Monitor",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -177,6 +184,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/5.jpg",
                             Price = 1500m,
                             ProductName = "Deck",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -186,6 +194,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/6.jpg",
                             Price = 11000m,
                             ProductName = "Printer",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -195,6 +204,7 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/7.jpg",
                             Price = 75m,
                             ProductName = "Biology",
+                            ShowCase = false,
                             Summary = ""
                         },
                         new
@@ -204,6 +214,37 @@ namespace StoreApp.Migrations
                             ImageUrl = "/images/8.jpg",
                             Price = 125m,
                             ProductName = "Suç ve Ceza",
+                            ShowCase = false,
+                            Summary = ""
+                        },
+                        new
+                        {
+                            ProductId = 9,
+                            CategoryId = 1,
+                            ImageUrl = "/images/9.jpg",
+                            Price = 150m,
+                            ProductName = "Chess",
+                            ShowCase = true,
+                            Summary = ""
+                        },
+                        new
+                        {
+                            ProductId = 10,
+                            CategoryId = 2,
+                            ImageUrl = "/images/10.jpg",
+                            Price = 450m,
+                            ProductName = "Akıllı Saat",
+                            ShowCase = true,
+                            Summary = ""
+                        },
+                        new
+                        {
+                            ProductId = 11,
+                            CategoryId = 1,
+                            ImageUrl = "/images/11.jpg",
+                            Price = 200m,
+                            ProductName = "Database Book",
+                            ShowCase = true,
                             Summary = ""
                         });
                 });
