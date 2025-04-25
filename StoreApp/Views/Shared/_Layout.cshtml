@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -25,6 +26,12 @@
         @RenderSection("Footer", false)
         Footer
     </footer>
+
+    <button id="btnScrollToTop" aria-label="Yukarı Çık">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+
     <script src="~/lib/jquery/jquery.min.js"></script>
     <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js"></script>

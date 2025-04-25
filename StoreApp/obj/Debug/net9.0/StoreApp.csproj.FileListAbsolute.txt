@@ -156,7 +156,6 @@ D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.csproj.Up2Date
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\StoreApp.staticwebassets.runtime.json
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\d6a611m2p8-kydf8nzws6.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\libman.json
-D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\gjxb23ewit-5ipweew5fc.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\h67i4wc3ge-bqjiyaj88i.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\fnu0izcetf-c2jlpeoesf.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\x1kwvt406j-erw9l3u2r3.gz
@@ -242,7 +241,6 @@ D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\3gm2cpvg5m-ttg
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\7r9ui8n98y-2z0ns9nrw6.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\f9vbit1ekj-muycvpuwrr.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\11meyrgl40-87fc7y1x7t.gz
-D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\omu34nzj59-5ipweew5fc.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Entities.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Entities.pdb
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Repositories.dll
@@ -251,3 +249,5 @@ D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Services.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Services.pdb
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\AutoMapper.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\gjxb23ewit-4wvq2xsa8v.gz
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\omu34nzj59-9lptqogau7.gz

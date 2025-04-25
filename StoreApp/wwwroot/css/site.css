@@ -1,0 +1,31 @@
+
+#btnScrollToTop {
+    display: none;               /* Başta gizli */
+    position: fixed;             /* Sabit konum */
+    bottom: 30px;                /* Alt kenardan 30px içeri */
+    right: 30px;                 /* Sağ kenardan 30px içeri */
+    width: 48px;                 /* Daire çapı */
+    height: 48px;
+    background-color: #e0e0e0;   /* Açık gri arka plan */
+    border-radius: 50%;          /* Tam yuvarlak */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    cursor: pointer;
+    z-index: 1000;
+
+    /* İçerideki ikonu ortalamak için flex */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+#btnScrollToTop:hover {
+    background-color: #d4d4d4;   /* Hover’da biraz koyulaşsın */
+    transform: translateY(-2px);
+}
+
+/* Ok ikonu stili */
+#btnScrollToTop i {
+    font-size: 24px;             /* Oku yeterince büyük yap */
+    color: #555555;              /* Koyu gri ok */
+}

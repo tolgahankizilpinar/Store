@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hWCncPKVlftC/cNvsaRKWGptzvlzOlNVXWoRumbazhE=",
+  "Hash": "5W9ItIY9GjPfq9c6m6kMQ417OD6f8VHVCupEFuJ8uwU=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-5ipweew5fc.gz",
+      "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-4wvq2xsa8v.gz",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StoreApp",
-      "RelativePath": "css/site#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=4wvq2xsa8v}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Fingerprint": "33q126h2gd",
+      "Integrity": "T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\css\\site.css"
@@ -1298,12 +1298,12 @@
       "OriginalItemSpec": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-5ipweew5fc.gz",
+      "Identity": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-9lptqogau7.gz",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StoreApp",
-      "RelativePath": "js/site#[.{fingerprint=5ipweew5fc}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=9lptqogau7}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Fingerprint": "j3fb6r2fm2",
+      "Integrity": "LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js"
@@ -1879,8 +1879,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Fingerprint": "4wvq2xsa8v",
+      "Integrity": "DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2173,8 +2173,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Fingerprint": "9lptqogau7",
+      "Integrity": "M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -6067,13 +6067,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.5ipweew5fc.css",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-5ipweew5fc.gz",
+      "Route": "css/site.4wvq2xsa8v.css",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-4wvq2xsa8v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "1.000000000000"
+          "Quality": "0.003546099291"
         }
       ],
       "ResponseHeaders": [
@@ -6083,15 +6083,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "281"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 08:49:33 GMT"
+          "Value": "Fri, 25 Apr 2025 09:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6111,13 +6111,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "W/\"DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "4wvq2xsa8v"
         },
         {
           "Name": "label",
@@ -6125,12 +6125,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk="
         }
       ]
     },
     {
-      "Route": "css/site.5ipweew5fc.css",
+      "Route": "css/site.4wvq2xsa8v.css",
       "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6140,7 +6140,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "521"
         },
         {
           "Name": "Content-Type",
@@ -6148,11 +6148,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 08:49:33 GMT"
+          "Value": "Fri, 25 Apr 2025 09:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6162,7 +6162,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "4wvq2xsa8v"
         },
         {
           "Name": "label",
@@ -6170,13 +6170,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk="
         }
       ]
     },
     {
-      "Route": "css/site.5ipweew5fc.css.gz",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-5ipweew5fc.gz",
+      "Route": "css/site.4wvq2xsa8v.css.gz",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-4wvq2xsa8v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6185,7 +6185,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "281"
         },
         {
           "Name": "Content-Type",
@@ -6193,11 +6193,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 08:49:33 GMT"
+          "Value": "Fri, 25 Apr 2025 09:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6215,7 +6215,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "4wvq2xsa8v"
         },
         {
           "Name": "label",
@@ -6223,18 +6223,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-5ipweew5fc.gz",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-4wvq2xsa8v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "1.000000000000"
+          "Quality": "0.003546099291"
         }
       ],
       "ResponseHeaders": [
@@ -6244,15 +6244,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "281"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 08:49:33 GMT"
+          "Value": "Fri, 25 Apr 2025 09:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6272,13 +6272,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "W/\"DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk="
         }
       ]
     },
@@ -6293,7 +6293,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "521"
         },
         {
           "Name": "Content-Type",
@@ -6301,11 +6301,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 08:49:33 GMT"
+          "Value": "Fri, 25 Apr 2025 09:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6315,13 +6315,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-DDbSmvu9leemTcd455ZynhYWLuurTlDdaIXgn+jR8kk="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-5ipweew5fc.gz",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\gjxb23ewit-4wvq2xsa8v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6330,7 +6330,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "281"
         },
         {
           "Name": "Content-Type",
@@ -6338,11 +6338,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 08:49:33 GMT"
+          "Value": "Fri, 25 Apr 2025 09:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6360,7 +6360,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-T+SEQZCuB9Z5WuNTRc9TJAazf6cTybZcg8Emb2abTwQ="
         }
       ]
     },
@@ -7647,13 +7647,13 @@
       ]
     },
     {
-      "Route": "js/site.5ipweew5fc.js",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-5ipweew5fc.gz",
+      "Route": "js/site.9lptqogau7.js",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-9lptqogau7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "1.000000000000"
+          "Quality": "0.003952569170"
         }
       ],
       "ResponseHeaders": [
@@ -7663,15 +7663,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "252"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:01:03 GMT"
+          "Value": "Fri, 25 Apr 2025 09:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7691,13 +7691,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "W/\"M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "9lptqogau7"
         },
         {
           "Name": "label",
@@ -7705,12 +7705,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4="
         }
       ]
     },
     {
-      "Route": "js/site.5ipweew5fc.js",
+      "Route": "js/site.9lptqogau7.js",
       "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7720,7 +7720,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "496"
         },
         {
           "Name": "Content-Type",
@@ -7728,11 +7728,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:01:03 GMT"
+          "Value": "Fri, 25 Apr 2025 09:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7742,7 +7742,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "9lptqogau7"
         },
         {
           "Name": "label",
@@ -7750,13 +7750,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4="
         }
       ]
     },
     {
-      "Route": "js/site.5ipweew5fc.js.gz",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-5ipweew5fc.gz",
+      "Route": "js/site.9lptqogau7.js.gz",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-9lptqogau7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7765,7 +7765,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "252"
         },
         {
           "Name": "Content-Type",
@@ -7773,11 +7773,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:01:03 GMT"
+          "Value": "Fri, 25 Apr 2025 09:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7795,7 +7795,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5ipweew5fc"
+          "Value": "9lptqogau7"
         },
         {
           "Name": "label",
@@ -7803,18 +7803,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE="
         }
       ]
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-5ipweew5fc.gz",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-9lptqogau7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "1.000000000000"
+          "Quality": "0.003952569170"
         }
       ],
       "ResponseHeaders": [
@@ -7824,15 +7824,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "252"
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:01:03 GMT"
+          "Value": "Fri, 25 Apr 2025 09:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7852,13 +7852,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "W/\"M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4="
         }
       ]
     },
@@ -7873,7 +7873,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "496"
         },
         {
           "Name": "Content-Type",
@@ -7881,11 +7881,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:01:03 GMT"
+          "Value": "Fri, 25 Apr 2025 09:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7895,13 +7895,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-M59nyEFeYmmeijegwpkJAPdbdQspCqObSVjaCQKldE4="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-5ipweew5fc.gz",
+      "AssetFile": "D:\\MyCodingSamples\\MVC\\Store\\StoreApp\\obj\\Debug\\net9.0\\compressed\\omu34nzj59-9lptqogau7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7910,7 +7910,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "252"
         },
         {
           "Name": "Content-Type",
@@ -7918,11 +7918,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:01:03 GMT"
+          "Value": "Fri, 25 Apr 2025 09:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7940,7 +7940,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-LxPTst2h8mB3zzj3yY7nSEfA9ctIrly3im89YHj1CQE="
         }
       ]
     },
