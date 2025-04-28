@@ -1,28 +1,33 @@
 @page "/getintouch"
+@using System.Globalization
 
 @model CartModel
 
-<div class="text-center border my-3 rounded">
-    <div class="display-6">Contact</div>
-    <div class="lead">
-        <i class="fa fa-phone text-primary my-3"></i>
+<div class="text-center my-5">
+    <div class="display-6 border-bottom">Contact</div>
+    <div class="lead mt-5">
+        <i class="fa fa-phone bg-secondary text-white p-3 rounded-5 my-3"></i>
         <p>ALO 123 Store App Destek Hattı</p>
 
-        <i class="fa-solid fa-address-book text-primary my-3"></i>
+        <i class="fa-solid fa-address-book bg-secondary text-white p-3 rounded-5my-3"></i>
         <p>Manolya Caddesi Demir Sokak No:123 Posta Kodu: 34123 Beşiktaş/İstanbul</p>
 
-        <i class="fa-solid fa-envelope text-primary my-3"></i>
+        <i class="fa-solid fa-envelope bg-secondary text-white p-3 rounded-5 my-3"></i>
         <p>destek@storeapp.com</p>
     </div>
 </div>
 
 <div id="map" style="width:100%;height:400px;"></div>
 
-@section Scripts {
-    <script>        
-        var lat = @Model.Latitude;
-        var lng = @Model.Longitude;
 
+@section Scripts {
+    <script>
+        // Razor burada nokta-ayırıcı (InvariantCulture) kullanacak:
+        var lat = parseFloat('@Model.Latitude.ToString(CultureInfo.InvariantCulture)');
+        var lng = parseFloat('@Model.Longitude.ToString(CultureInfo.InvariantCulture)');
+
+        console.log("Harita koordinatları:", lat, lng); 
+    
         var map = L.map('map').setView([lat, lng], 12);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -32,7 +37,8 @@
 
         L.marker([lat, lng])
          .addTo(map)
-         .bindPopup('Istanbul')
+         .bindPopup('HAN Technology')
          .openPopup();
     </script>
 }
+
