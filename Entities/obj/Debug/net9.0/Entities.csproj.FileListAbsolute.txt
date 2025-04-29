@@ -10,3 +10,4 @@ D:\MyCodingSamples\MVC\Store\Entities\obj\Debug\net9.0\Entities.dll
 D:\MyCodingSamples\MVC\Store\Entities\obj\Debug\net9.0\refint\Entities.dll
 D:\MyCodingSamples\MVC\Store\Entities\obj\Debug\net9.0\Entities.pdb
 D:\MyCodingSamples\MVC\Store\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\MyCodingSamples\MVC\Store\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
