@@ -250,5 +250,7 @@ D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Services.pdb
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\AutoMapper.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\omu34nzj59-9lptqogau7.gz
-D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\gjxb23ewit-cfu3udq0ff.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\gjxb23ewit-f0kqs4fi41.gz
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\4wokoub8zu-9wihlduv4s.gz
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\oscc88jfy6-nzknp1iis3.gz
