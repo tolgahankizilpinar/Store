@@ -1,6 +1,8 @@
 using Entities.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Repositories;
 using Repositories.Contracts;
 using Services;
@@ -71,6 +73,17 @@ namespace StoreApp.Infrastructure.Extensions
             {
                 options.LowercaseUrls = true;
                 options.AppendTrailingSlash = false;
+            });
+        }
+
+        public static void ConfigureApplicationCookie(this IServiceCollection services)
+        {
+            services.ConfigureApplicationCookie(Options => 
+            {
+                Options.LoginPath = new PathString("/Account/Login");
+                Options.ReturnUrlParameter = CookieAuthenticationDefaults.ReturnUrlParameter;
+                Options.ExpireTimeSpan = TimeSpan.FromMinutes(20);
+                Options.AccessDeniedPath = new PathString("/Account/AccessDenied");
             });
         }
     }
