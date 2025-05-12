@@ -254,3 +254,6 @@ D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Microsoft.AspNetCore.Iden
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\gjxb23ewit-f0kqs4fi41.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\4wokoub8zu-9wihlduv4s.gz
 D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\compressed\oscc88jfy6-nzknp1iis3.gz
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Presentation.dll
+D:\MyCodingSamples\MVC\Store\StoreApp\bin\Debug\net9.0\Presentation.pdb
+D:\MyCodingSamples\MVC\Store\StoreApp\obj\Debug\net9.0\StoreApp.MvcApplicationPartsAssemblyInfo.cs
