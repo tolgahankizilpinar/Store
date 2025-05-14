@@ -17,7 +17,7 @@ namespace StoreApp.Infrastructure.Extensions
         {
             services.AddDbContext<RepositoryContext>(options =>
             {
-                options.UseSqlite(configuration.GetConnectionString("Sqlconnection"),
+                options.UseSqlServer(configuration.GetConnectionString("mssqlconnection"),
                     b => b.MigrationsAssembly("StoreApp"));
                 
                 options.EnableSensitiveDataLogging(true);
