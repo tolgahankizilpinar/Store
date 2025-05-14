@@ -11,4 +11,6 @@ State Management,
 Tag Helpers,
 Identity,
 Web API,
-Admin Panel.
+Admin Panel,
+Sqlite,
+At the end of project turn MSSQL.
