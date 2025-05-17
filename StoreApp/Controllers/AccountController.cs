@@ -35,17 +35,27 @@ namespace StoreApp.Controllers
                 IdentityUser? user = await _userManager.FindByNameAsync(loginModel.Name);
                 if (user is not null)
                 {
-                    await _signInManager.SignOutAsync();
-                    if ((await _signInManager.PasswordSignInAsync(user, loginModel.Password, false, false)).Succeeded)
+                    await _signInManager.SignOutAsync(); // varsa eski oturumu kapat
+
+                    var result = await _signInManager.PasswordSignInAsync(
+                        user,
+                        loginModel.Password,
+                        isPersistent: true, // tarayıcıyı kapatınca da login kalsın
+                        lockoutOnFailure: false
+                    );
+
+                    if (result.Succeeded)
                     {
                         return Redirect(loginModel?.ReturnUrl ?? "/");
                     }
                 }
+
                 ModelState.AddModelError("Error", "Invalid username or password.");
             }
 
             return View();
         }
+
 
 
         public async Task<IActionResult> Logout([FromQuery(Name = "ReturnUrl")] string ReturnUrl = "/")
@@ -79,8 +89,8 @@ namespace StoreApp.Controllers
                 var roleResult = await _userManager
                     .AddToRoleAsync(user, "User");
 
-                if(roleResult.Succeeded)
-                    return RedirectToAction("Login",  new { ReturnUrl  = "/"});
+                if (roleResult.Succeeded)
+                    return RedirectToAction("Login", new { ReturnUrl = "/" });
             }
             else
             {

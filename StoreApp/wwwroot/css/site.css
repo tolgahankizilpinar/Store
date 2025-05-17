@@ -30,6 +30,17 @@
     color: #555555;              /* Koyu gri ok */
 }
 
+.welcome-message {
+    background-color: #6c757d;
+    color: white;
+    font-size: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+
 
 
 
